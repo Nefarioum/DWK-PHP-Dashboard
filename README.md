@@ -1,3 +1,3 @@
 # DWK-PHP-Dashboard
 
-A basic dashboard utilising Laravel and PHP to emulate a enterprize business utility dashboard. 
+A basic dashboard utilizing Laravel and PHP to emulate a enterprise business utility dashboard.
