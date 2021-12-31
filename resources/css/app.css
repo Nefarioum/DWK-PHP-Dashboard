@@ -1,0 +1,36 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.dwk-logo {
+    font-family: "Rockwell Extra Bold";
+}
+
+.bg-darkblue-500,
+.hover-bg-darkblue-500:hover,
+.focus-bg-darkblue-500:focus{
+    --tw-bg-opacity: 1;
+    background-color: rgba(38, 50, 82, var(--tw-bg-opacity));
+}
+
+.bg-darkblue-400 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(48, 62, 103, var(--tw-bg-opacity));
+}
+
+.bg-darkblue-100 {
+    --tw-bg-opacity: 1;
+    background-color: rgba(104, 129, 179, var(--tw-bg-opacity));
+}
+
+
+.border-darkblue-400 {
+    --tw-border-opacity: 1;
+    border-color: rgba(48, 62, 103, var(--tw-border-opacity));
+}
+
+.border-darkblue-500 {
+    --tw-border-opacity: 1;
+    border-color: rgba(38, 50, 82, var(--tw-border-opacity));
+}
+
